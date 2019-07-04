@@ -7,7 +7,7 @@
 - Super
 - Steroid
 
-### Why PHPS?
+### The PHPS Manifesto
 
 Apparently, PHP is going down :pill: , if it's stuck with web and web only. And I blame the PHP team. PHP had its glories, but the PHP team just dwells on the past.
 
